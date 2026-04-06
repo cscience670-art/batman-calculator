@@ -50,7 +50,7 @@ batman-calculator/
 ##⚙️ Installation & Setup
 1. Clone the Repository
 Bash
-git clone https://github.com/sadek1amine/batman-calculator.git
+git clone https://github.com/cscience670-art/batman-calculator.git
 2. Enter the Directory
 Bash
 cd batman-calculator
