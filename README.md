@@ -1,10 +1,10 @@
 
-🦇 Batman Calculator
+# 🦇 Batman Calculator
 A simple, modern, and dark-themed mobile calculator app built using React Native (Expo).
 
 This is the perfect first project for first-year computer science students. It focuses on the fundamentals: building a clean UI, handling user input, and implementing basic arithmetic logic. While AI can write code in 2026, this project challenges you to understand the actual flow of data—from a physical button press to a calculated result on the screen.
 
-🎯 Learning Objectives
+## 🎯 Learning Objectives
 This project is engineered to teach:
 
 Logic Implementation: Building a calculation engine without external math libraries.
@@ -15,7 +15,7 @@ State Management: Using React Hooks (useState) to track inputs and results.
 
 Asset Integration: Managing custom images and fonts within the Expo ecosystem.
 
-🚀 Features
+## 🚀 Features
 Core Math: Perform addition, subtraction, multiplication, and division.
 
 Batman Aesthetics: Custom themed assets with a sleek, high-contrast dark interface.
@@ -26,7 +26,7 @@ Real-time Feedback: Immediate calculation updates using React state.
 
 Clean Code: Structured specifically for beginners to read and modify easily.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Framework: React Native (Expo)
 
 Language: JavaScript / TypeScript
@@ -35,7 +35,7 @@ Styling: React Native StyleSheet (CSS-in-JS)
 
 Assets: Custom Batman-themed imagery and icons
 
-📂 Project Structure
+## 📂 Project Structure
 Plaintext
 batman-calculator/
 │
@@ -46,7 +46,8 @@ batman-calculator/
 ├── app.json            # Expo configuration
 ├── package.json        # Dependencies and scripts
 └── tsconfig.json       # TypeScript configuration
-⚙️ Installation & Setup
+
+##⚙️ Installation & Setup
 1. Clone the Repository
 Bash
 git clone https://github.com/sadek1amine/batman-calculator.git
@@ -61,7 +62,7 @@ Bash
 npx expo start
 How to view: Scan the QR code with the Expo Go app (Android) or the Camera app (iOS) to run the calculator on your phone.
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 By completing or studying this project, you will master:
 
 Basic Arithmetic Logic: Writing the functions that process mathematical strings.
@@ -72,8 +73,8 @@ Event Handling: Understanding onPress events and passing data between components
 
 Theming: Creating a cohesive "Dark Mode" aesthetic using custom colors and images.
 
-📸 Screenshots
+## 📸 Screenshots
 
-👨‍💻 Author
+## 👨‍💻 Author
 Sadek Amine
-Building tools for the Dark Knights of coding.
+
